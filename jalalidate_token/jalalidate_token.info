@@ -1,0 +1,5 @@
+name = Jalali Date Token
+description = Provides a tokenized Jalali date that you can use it all over of your Drupal.
+core = 7.x
+package = Persian Tools
+dependencies[] = persiantools
